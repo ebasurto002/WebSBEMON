@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+body {
+	background-color: #1d1f29;
+}
+
+p {
+	font-family: Open Sans;
+	color: #3f5b58;
+	font-size: 18px;
+	font-weight: bold;
+}
+#indexLogo {
+	
+}
